@@ -26,3 +26,11 @@ The website does not generate or publish lessons on a schedule. ChatGPT's twice-
 ## Sources
 
 Prioritize Basics of Sikhi/WhyGuru, Sri Guru Granth Sahib Ji with precise Ang references, the Encyclopaedia of Sikhism, J. S. Grewal's *The Sikhs of the Punjab*, and Khushwant Singh's *A History of the Sikhs*. Attribute traditional accounts and historical evidence separately.
+
+## Design and accessibility
+
+The buildless site uses a small local SVG landscape with architecture-inspired silhouettes. It is decorative scenery, not a reconstruction of a named historic place, and contains no portraits. There are no runtime JavaScript dependencies or image service requests.
+
+Scroll parallax in the hero, lesson reading banner and timeline is clamped to 50px and updated using a passive scroll listener and a single animation frame. Off-screen sections skip updates. The operating system's reduced-motion setting disables parallax, smooth scrolling and hover movement. Navigation and lesson cards support keyboard focus; all four navigation links remain available on phones.
+
+Preview locally with `python3 -m http.server 8080`, then visit `http://localhost:8080`. GitHub Pages must serve the repository root on `main`; all asset and lesson paths are relative to support the project URL. No build or new hosting service is required.
