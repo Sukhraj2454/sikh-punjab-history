@@ -1,0 +1,36 @@
+name: Publish Sikh history lessons twice daily
+on:
+  schedule:
+    # 08:00 and 20:00 IST = 02:30 and 14:30 UTC
+    - cron: '30 2,14 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: history-publisher
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate the next source-aware history lesson
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/publish_lesson.py
+      - name: Commit only when a new lesson was generated
+        run: |
+          if git diff --quiet -- lessons.json; then
+            echo "No new lesson to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lessons.json
+          git commit -m "history: publish next chronological lesson"
+          git push
