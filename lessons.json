@@ -88,5 +88,147 @@
       "Which Ang preserves the composition?",
       "What is the difference between the shabad and the Puri sakhi?"
     ]
+  },
+  {
+    "id": 7,
+    "title": "Southern Journey: Sri Lanka and Raja Shivnabh",
+    "period": "Early 1500s; traditional chronology c. 1506–1513",
+    "era": "Journeys",
+    "intro": "The southern Udasi traditions describe Guru Nanak Sahib travelling from Odisha through the Deccan and peninsular India, with some accounts extending to Singhaldvip, conventionally identified as Sri Lanka. The Puratan and Miharban Janamsakhi collections do not organise all journeys identically. The described routes and precise years remain uncertain.\n\nThe early-sixteenth-century Deccan was politically diverse, with successor states of the Bahmani Sultanate and the Vijayanagara Empire. The traditions place Guru Nanak's discussions in this varied religious environment.",
+    "record": "Sri Guru Granth Sahib Ji preserves Dakhni Oankar in Raag Ramkali, Angs 929–938. Its scriptural preservation establishes Guru Nanak's teaching, not a specific site or date of composition. J. S. Grewal, The Sikhs of the Punjab, and Khushwant Singh, A History of the Sikhs, Volume I, provide historical context for the first Guru and his travels.",
+    "tradition": "The Raja Shivnabh sakhi concerns a merchant called Bhai Mansukh, whose devotional conduct reportedly inspired a ruler of Singhaldvip to seek Guru Nanak's teaching. Accounts describe the Guru's arrival and the Raja's discipleship. The story belongs to the Janamsakhi tradition; its personal conversations and historical identification of the king are not independently established.",
+    "recap": "Puri → southern route traditions → Singhaldvip → Raja Shivnabh. Bhai Mansukh is the merchant in the traditional account. Dakhni Oankar is preserved on Angs 929–938. Route and miraculous details should not be treated as verified.",
+    "questions": [
+      "What is Singhaldvip traditionally identified with?",
+      "Who is the merchant in the Raja Shivnabh sakhi?",
+      "Which Angs preserve Dakhni Oankar?"
+    ],
+    "references": [
+      "Sri Guru Granth Sahib Ji, Angs 929–938 (Dakhni Oankar)",
+      "Encyclopaedia of Sikhism, Raja Shivnabh",
+      "J. S. Grewal, The Sikhs of the Punjab"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Bidar and the Nanak Jhira Tradition",
+    "period": "Early 1500s; exact visit date uncertain",
+    "era": "Journeys",
+    "intro": "Bidar, on the Deccan Plateau, was a major centre of the Bahmani Sultanate, which transferred its capital there in the fifteenth century. Its fortifications, architecture and scholarship provide the historical setting for the Nanak Jhira tradition.\n\nThe site today commemorates Guru Nanak Sahib's purported visit and a spring near Bidar. The history of the physical shrine is distinct from the much earlier episode narrated in Sikh tradition.",
+    "record": "Japji Sahib, Sri Guru Granth Sahib Ji, Ang 8, includes ਪਵਣੁ ਗੁਰੂ ਪਾਣੀ ਪਿਤਾ ਮਾਤਾ ਧਰਤਿ ਮਹਤੁ ॥, depicting air, water and earth through familial imagery. That passage is authenticated scripture, but is not independently dated to Bidar. The Encyclopaedia of Sikhism's Bidar entry describes the shrine's later institutional history, including twentieth-century custodianship and construction.",
+    "tradition": "The Nanak Jhira sakhi says that Guru Nanak Sahib and Bhai Mardana met religious faqirs near Bidar. Residents faced a drinking-water problem; the account describes a spring emerging when Guru Nanak moved a stone. Some versions name Pir Jalaluddin. The miraculous origin and exact conversations are traditional narratives, not independently established historical events.",
+    "recap": "Bidar → Deccan → Nanak Jhira → freshwater spring. The spring and shrine exist; the reported miracle is tradition. Ang 8 names air, water and earth. Historical buildings and remembered events require different forms of evidence.",
+    "questions": [
+      "Which Sultanate made Bidar a capital?",
+      "What is Nanak Jhira associated with?",
+      "On which Ang is 'Pavan Guru Pani Pita' found?"
+    ],
+    "references": [
+      "Sri Guru Granth Sahib Ji, Ang 8 (Japji Sahib)",
+      "Encyclopaedia of Sikhism, Bidar",
+      "Khushwant Singh, A History of the Sikhs, Volume I"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "The Siddhas, Nath Yogis and Siddh Gosht",
+    "period": "Early sixteenth century; dates disputed",
+    "era": "Journeys",
+    "intro": "Nath yogic traditions were influential across North India. Their practices and centres formed an important context for Guru Nanak Sahib's engagement with renunciation, spiritual discipline and the householder's life.\n\nSikh travel traditions associate discussions with yogis at sites including Achal Batala and Tilla Jogian. A separate sacred-mountain setting, Sumer Parbat, occurs in traditional narratives; no exact itinerary can be reconstructed from these accounts.",
+    "record": "Siddh Gosht appears in Raag Ramkali, Sri Guru Granth Sahib Ji, Angs 938–946. It records a dialogue addressing the Divine, Shabad, Naam, spiritual understanding and ascetic practices. The lotus and waterbird imagery on Ang 938 describes living amidst the world without attachment. Bhai Gurdas, Vaar 1, Pauri 40, is an early Sikh literary source for the Achal encounter; it is not an eyewitness transcript.",
+    "tradition": "Janamsakhi traditions describe Guru Nanak Sahib debating Nath yogis, including an encounter with Bhangar Nath at Achal Batala. Some retellings feature miraculous demonstrations. The narrative settings and dialogues vary across sources. The composition Siddh Gosht is primary scriptural evidence; a specific mountain meeting is not thereby independently proved.",
+    "recap": "Nath yogis → Siddhas → dialogue with Guru Nanak. Siddh Gosht: Angs 938–946. Lotus and waterbird: live in the world while remaining unattached. Achal Batala is a traditional encounter site; its precise conversation is not independently verified.",
+    "questions": [
+      "Where is Siddh Gosht preserved?",
+      "Which two natural images describe detachment?",
+      "Which yogi is linked with Achal Batala in Sikh tradition?"
+    ],
+    "references": [
+      "Sri Guru Granth Sahib Ji, Angs 938–946 (Siddh Gosht)",
+      "Bhai Gurdas, Vaar 1, Pauri 40",
+      "Encyclopaedia of Sikhism, Siddh Gosti; Achal Sahib"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Mecca and Baghdad: Western Journey Traditions",
+    "period": "Early sixteenth century; exact dates disputed",
+    "era": "Journeys",
+    "intro": "Sikh tradition describes Guru Nanak Sahib's western travels to Mecca, Medina and Baghdad. Early-sixteenth-century western Asia contained Ottoman, Safavid and Mamluk political spheres, as well as established Islamic scholarship and Sufi communities.\n\nAlthough the stories are important within Sikh literature, exact dates, routes and individual encounters are not independently settled.",
+    "record": "Bhai Gurdas, Vaar 1, Pauris 32–37, is an important early Sikh literary witness to the Mecca and Baghdad narratives, written after Guru Nanak's lifetime. Guru Nanak's Gurbani supplies direct testimony to his teachings about Divine presence; the location of a story must be established separately. V. L. Ménage's 1979 article in the Journal of the Royal Asiatic Society examines the disputed Baghdad inscription.",
+    "tradition": "In the Mecca sakhi, someone objects to the direction of Guru Nanak's feet, and the narrative describes the sacred direction appearing to move as his feet are turned. The Baghdad account places Bhai Mardana beside Guru Nanak and describes discussions with a local religious figure. Miraculous details are traditional, and the Baghdad inscription's dating and identification remain disputed.",
+    "recap": "Westward travels → Mecca → Baghdad. Bhai Gurdas preserves an early literary account, not an eyewitness journal. The Mecca sakhi concerns Divine omnipresence. The Baghdad inscription is contested, not conclusive evidence.",
+    "questions": [
+      "Which Vaar of Bhai Gurdas recounts Mecca and Baghdad?",
+      "Who accompanies Guru Nanak in the Baghdad account?",
+      "What is the status of the Baghdad inscription?"
+    ],
+    "references": [
+      "Bhai Gurdas, Vaar 1, Pauris 32–37",
+      "V. L. Ménage, 'The Gurū Nānak Inscription at Baghdad,' Journal of the Royal Asiatic Society (1979)",
+      "J. S. Grewal, The Sikhs of the Punjab"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Babur's Invasions and the Babarvani",
+    "period": "1519–1526 CE",
+    "era": "Punjab and politics",
+    "intro": "Babur, the Timurid ruler based in Kabul, mounted campaigns into northwestern India. His defeat of Ibrahim Lodi at the First Battle of Panipat on 21 April 1526 inaugurated Mughal rule in northern India. Punjab's towns and residents experienced violence, captivity and disruption during these struggles.\n\nGuru Nanak Sahib's compositions collectively called Babarvani are especially valuable because they address political events and suffering during his lifetime.",
+    "record": "The four compositions collectively called Babarvani occur on Sri Guru Granth Sahib Ji, Angs 360, 417–418 and 722–723. Ang 360 asks why such violence and crying out occurred. Ang 722 directly addresses Lalo and likens the invading army to a coercive wedding procession. These texts document Guru Nanak's response, rather than a detailed military chronicle.",
+    "tradition": "Janamsakhi accounts associate Guru Nanak Sahib with Saidpur (Eminabad), captivity and a meeting with Babur; some versions describe a hand mill turning miraculously. Babur's campaigns are historically documented, but the precise conversations and supernatural events of the captivity story are not independently verified.",
+    "recap": "1519–1526 → Babur's campaigns; 21 April 1526 → Panipat. Babarvani: Angs 360, 417–418, 722–723. These compositions attend to civilians, women and political responsibility. The hand-mill sakhi is traditional.",
+    "questions": [
+      "On which date was the First Battle of Panipat in 1526?",
+      "Which Angs contain the Babarvani compositions?",
+      "Who is addressed in the Tilang composition on Ang 722?"
+    ],
+    "references": [
+      "Sri Guru Granth Sahib Ji, Angs 360, 417–418, 722–723",
+      "Encyclopaedia of Sikhism, Babar Vani",
+      "Khushwant Singh, A History of the Sikhs, Volume I"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Kartarpur: The First Sikh Community",
+    "period": "c. 1520–1539 CE",
+    "era": "Community",
+    "intro": "Guru Nanak Sahib established a settled community at Kartarpur beside the Ravi in Punjab, commonly dated to around 1520–1522. Here his followers participated in agricultural work, congregation, devotional singing and communal meals.\n\nKartarpur became an enduring centre for the early Sikh community and the place where Guru Nanak spent his final years.",
+    "record": "Bhai Gurdas, Vaar 1, Pauri 38, describes Guru Nanak returning to Kartarpur, setting aside travelling attire and living as a householder. Sri Guru Granth Sahib Ji, Ang 1245, states ਘਾਲਿ ਖਾਇ ਕਿਛੁ ਹਥਹੁ ਦੇਇ ॥ — earning through labour and giving from one's earnings. Early Sikh gathering places were commonly termed dharamsalas; later Gurus expanded the institutions of sangat and langar.",
+    "tradition": "The Janamsakhi traditions describe land offered by a local official sometimes called Karori. The donor's identity and exact events differ in retellings, and no contemporary grant confirms every detail. Guru Nanak's later choice of Bhai Lehna as successor is a central tradition supported by additional early Sikh literature.",
+    "recap": "Kartarpur → Ravi → farming → sangat → langar → dharamsala. Ang 1245: work and share. The Guru's settled life prepared the community for continuity after 1539.",
+    "questions": [
+      "Beside which river was Kartarpur established?",
+      "Which Ang includes the verse about working and giving?",
+      "What was an early Sikh congregational place commonly called?"
+    ],
+    "references": [
+      "Bhai Gurdas, Vaar 1, Pauri 38",
+      "Sri Guru Granth Sahib Ji, Ang 1245",
+      "Encyclopaedia of Sikhism, Kartarpur",
+      "J. S. Grewal, The Sikhs of the Punjab"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Bhai Lehna Becomes Guru Angad Dev Ji",
+    "period": "1504–1539 CE",
+    "era": "The Gurus",
+    "intro": "Bhai Lehna, born in 1504 in Punjab, was associated in later Sikh biographies with devotional journeys to Jwalamukhi before he encountered Guru Nanak Sahib's teaching. He settled around Khadur and married Mata Khivi Ji.\n\nSikh tradition describes Lehna hearing Gurbani, travelling to Kartarpur, serving the congregation and ultimately being appointed Guru Angad Dev Ji. Guru Nanak chose him rather than either of his sons.",
+    "record": "Bhai Gurdas, Vaar 1, Pauri 45, describes Guru Nanak appointing Lehna during his lifetime. The Ramkali ki Var of Satta and Balwand on Sri Guru Granth Sahib Ji, Ang 966, describes the succession using the continuity of spiritual light (jot) and way (jugat). These are stronger early literary and scriptural sources for the succession than the precise details of individual tests.",
+    "tradition": "One traditional sakhi describes Bhai Lehna carrying muddy grass when others were unwilling, with some variants including a miraculous transformation of the mud. The account is preserved in later biographies, including M. A. Macauliffe's The Sikh Religion, Volume II. The service episode is traditional narrative, not a contemporary verbatim record.",
+    "recap": "Lehna → Kartarpur → service → appointed Guru Angad in 1539 → Khadur Sahib. Bhai Gurdas Vaar 1 Pauri 45 and Ang 966 preserve early succession testimony. The muddy-grass tale is traditional.",
+    "questions": [
+      "What was Guru Angad's earlier name?",
+      "Which Ang contains the Ramkali ki Var of Satta and Balwand on the succession?",
+      "Did Bhai Gurdas say the appointment occurred during Guru Nanak's lifetime?"
+    ],
+    "references": [
+      "Sri Guru Granth Sahib Ji, Ang 966, Ramkali ki Var of Satta and Balwand",
+      "Bhai Gurdas, Vaar 1, Pauri 45",
+      "M. A. Macauliffe, The Sikh Religion, Volume II",
+      "J. S. Grewal, The Sikhs of the Punjab"
+    ]
   }
 ]
